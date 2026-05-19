@@ -18,8 +18,3 @@ A CNN-based image classifier built using TensorFlow/Keras to classify cats and d
 ## Dataset
 https://www.kaggle.com/datasets/salader/dogsvscats
 
-## Future Improvements
-- Data augmentation
-- Transfer learning
-- Better regularization
-- Deployment using Streamlit/Flask
